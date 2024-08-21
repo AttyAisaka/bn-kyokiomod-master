@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Mod_ID",
+    "name": "Chaos Mod",
+    "authors": [ "Atty_Aisaka", "Skrub Quill" ],
+    "description": "Adds the world of Chaos to the Cataclysm, made by the mind of Skrub Quill a universe inspired by Cataclysm with some twists",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
