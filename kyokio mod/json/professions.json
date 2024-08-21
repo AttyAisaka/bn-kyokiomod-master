@@ -3,11 +3,13 @@
     "type": "profession",
     "id": "prof_kyo",
     "name": "Kyokio",
-    "description": "The teenager that ended up in Chaos seemingly of random chance granted special abilities by a magician",
-    "points": 
-    "skills":
-    "items":
-    "skills":
-
+    "description": "The teenager that ended up in Chaos seemingly of random chance and granted special abilities by a magician",
+    "skills": [ { "level": 3, "name": "gun" }, { "level": 3, "name": "pistol" } ],
+    "items": {
+      "both": {
+        "items": [ "skirt", "socks", "pair_of_lowtop_tennis_shoes", "smart_phone", "t-shirt" ],
+        "entries": [ { "item": "7-shots_.357_revolver" } ]
+      }
+    }
   }
 ]
